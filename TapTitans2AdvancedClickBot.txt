@@ -409,7 +409,7 @@ goto :start
 
 // ----------- CHECK CLAN QUEST
 :checkClanQuest
-	getRGB #colorRed #colorGreen #colorBlue 75 20
+	getRGB #colorRed #colorGreen #colorBlue 70 20
 	
 	if #colorRed < 190 and #colorRed > 120
 		goto :checkClanQuestReady
