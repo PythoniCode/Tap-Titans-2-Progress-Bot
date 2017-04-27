@@ -1,5 +1,6 @@
 # Tap-Titans-2-Progress-Bot
-A HiroMacro script for Tap Titans game
+A HiroMacro script for Tap Titans 2
+Original Script can be found here: https://github.com/Tune389/Tap-Titans-2-Progress-Bot
 
 ## Features
  - Auto leveling
@@ -12,6 +13,7 @@ A HiroMacro script for Tap Titans game
  - Autobuy skills (need a rework at curr state)
  - Autolevel heroes with scroll detection & spam
  - Autostart skills every X minutes
+ - Autocollect Daily Quest Rewards
  
 ## Coming Soon
  - Autostart tournament
@@ -62,3 +64,4 @@ A HiroMacro script for Tap Titans game
  - checkBossFight: 0|1 (enable this in the late game, bot skipps actions while fighting with the boss)
  - hatchEggs 0|1
  - enableTapping 0|1
+ - enableDaily 1|0
